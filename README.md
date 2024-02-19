@@ -1,2 +1,0 @@
-# devopspractice
-Learning Git 
